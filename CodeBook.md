@@ -45,5 +45,6 @@ The R script *run_analysis.R* performs the data preparation, and exports the req
 
 ## 6. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
 * *FinalData* is created by taking the means of each variable after grouping by subject and activity
+* The units are radians/seconds
 * Export the data into *FinalData.txt*
 
